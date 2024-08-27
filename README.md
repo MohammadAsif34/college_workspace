@@ -16,5 +16,5 @@
 </ul>
 <li>git remote add origin https://github.com/MohammadAsif34/afs.git</li>
 <li>git branch -M master</li>
-<li>it push -u origin master</li>
+<li>git push -u origin master</li>
 </ul>
